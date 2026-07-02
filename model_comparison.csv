@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,AUC (macro),Params (M),Model Size (MB),Train Time (s),Inference Time (ms/img)
+custom_cnn,0.9667,0.9689,0.9667,0.9664,0.9664,0.9995,0.46,5.31,686.9,7.15
+mobilenetv2,0.9778,0.9789,0.9778,0.9775,0.9775,1.0,2.59,24.61,454.9,29.7
+resnet50,1.0,1.0,1.0,1.0,1.0,1.0,24.11,206.72,767.1,28.44
