@@ -1,0 +1,18 @@
+{
+  "best_model": "resnet50",
+  "dataset_root": "/kaggle/input/datasets/kaustubhdikshit/neu-surface-defect-database/NEU-DET",
+  "num_images_total": 1800,
+  "split": {
+    "train": 1260,
+    "val": 270,
+    "test": 270
+  },
+  "class_names": [
+    "crazing",
+    "inclusion",
+    "patches",
+    "pitted_surface",
+    "rolled-in_scale",
+    "scratches"
+  ]
+}
