@@ -80,6 +80,6 @@ TensorFlow / Keras · scikit-learn · SHAP · Grad-CAM · pandas · matplotlib /
 
 ## Links
 
-- Kaggle notebook: _add link_
-- Web demo: _add link_
+- Kaggle notebook: https://www.kaggle.com/code/sodhisahil/steel-classification-nb
+- Web demo: https://huggingface.co/spaces/sahil-sodhi/steel-defect-classifier
 
